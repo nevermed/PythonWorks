@@ -13,7 +13,7 @@ yx = fun(x)
 
 
 plt.plot(x, y, label='cos(4*x)-x+1')
-plt.plot(x, yx, label='x**3')
+plt.plot(x, yx, label='x**1')
 plt.legend()
 plt.title('Taylor Expansion')
 plt.grid()
